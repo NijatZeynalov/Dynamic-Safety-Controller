@@ -1,0 +1,5 @@
+transformers==4.21.1
+torch==1.12.1
+torchvision==0.13.1
+numpy==1.21.6
+flask==2.1.2
